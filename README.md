@@ -20,10 +20,8 @@ This project implements **drone detection and localization** using **deep learni
 
 ## 📂 Datasets Used  
 
-1. [Drone Dataset UAV](https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav)  
-2. [Drone vs Bird Classification](https://www.kaggle.com/datasets/imbikramsaha/drone-bird-classification)  
-3. [Amateur UAV Detection Dataset](https://www.kaggle.com/datasets/mcagriaksoy/amateur-unmanned-air-vehicle-detection-dataset)  
-
+1. [Drone Dataset UAV](https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav)
+2. 
 ---
 
 ## ⚙️ Installation  
@@ -134,24 +132,3 @@ pip install tensorflow opencv-python numpy pandas matplotlib seaborn pillow scik
 * Optimizer: **Adam**
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-Developed by **\[Your Name]** ✨
-
----
-
-## ✅ To Do
-
-* [ ] Improve bounding box regression with IoU-based loss (e.g., Smooth L1, GIoU)
-* [ ] Add class prediction (drone vs bird)
-* [ ] Export model for real-time inference (TensorRT / TFLite)
-* [ ] Deploy as a web app (Flask / FastAPI / Streamlit)
-👉 Do you want me to also generate a **`requirements.txt` file** automatically from your imports so the setup is easier?
-```
