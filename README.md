@@ -21,30 +21,6 @@ This project implements **drone detection and localization** using **deep learni
 ## 📂 Datasets Used  
 
 1. [Drone Dataset UAV](https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav)
-2. 
----
-
-## ⚙️ Installation  
-
-### 1. Clone Repository  
-```bash
-git clone https://github.com/yourusername/drone-detection.git
-cd drone-detection
-````
-
-### 2. Install Dependencies
-
-Make sure you have **Python 3.8+** installed. Then run:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Authenticate Kaggle (if needed)
-
-```bash
-pip install kagglehub
-```
 
 ---
 
@@ -115,13 +91,7 @@ Main dependencies:
 * Pillow (PIL)
 * Scikit-learn
 * kagglehub
-
-Install with:
-
-```bash
-pip install tensorflow opencv-python numpy pandas matplotlib seaborn pillow scikit-learn kagglehub
-```
-
+  
 ---
 
 ## 📌 Notes
